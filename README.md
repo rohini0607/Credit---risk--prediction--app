@@ -85,7 +85,7 @@ The interactive dashboard allows users to:
 
 1. Clone the repository:
 
-   git clone <repository_link>
+   git clone <https://github.com/rohini0607/Credit---risk--prediction--app>
 
 2. Install dependencies:
 
